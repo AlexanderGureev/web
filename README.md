@@ -1,6 +1,6 @@
 Выполненное тестовое задание находится в следующих репозиториях:
-[Frontend](https://github.com/AlexanderGureev/au-web-frontend)
-[Backend](https://github.com/AlexanderGureev/au-web-backend)
+1. [Frontend](https://github.com/AlexanderGureev/au-web-frontend)
+2. [Backend](https://github.com/AlexanderGureev/au-web-backend)
 
 ## Вводная задача
 - форкнуть репу
